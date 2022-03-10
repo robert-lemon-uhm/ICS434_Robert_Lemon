@@ -12,3 +12,7 @@ A repository for all of the experiences for ICS 433, Spring 2022. Individual exp
 (2/21)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [Probability Distribution](https://github.com/robert-lemon-uhm/ICS434_Robert_Lemon/blob/main/module_2/experience-prob-distribution.ipynb)
+
+(3/16)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[Hypothesis Testing](https://github.com/robert-lemon-uhm/ICS434_Robert_Lemon/blob/main/module_2/hypothesis_testing.ipynb)
